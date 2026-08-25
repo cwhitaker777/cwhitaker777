@@ -20,17 +20,11 @@ As a former NCAA Division II student-athlete and team captain, I bring disciplin
 
 ### 🚀 Featured Projects
 
-**[CloudCart](https://github.com/cwhitaker777/CloudCart)**
-Medusa.js e-commerce platform deployed on EKS with a full DevSecOps stack — containerized architecture, IaC, and security tooling baked into the pipeline.
-
 **[IaC-w-Terraform-and-Ansible](https://github.com/cwhitaker777/IaC-w-Terraform-and-Ansible)**
 End-to-end Terraform + Ansible pipeline on AWS, provisioning infrastructure and automating configuration management. Full documented walkthrough included.
 
 **[Application_Deployment](https://github.com/cwhitaker777/Application_Deployment)**
 Terraform-driven deployment workflow for cloud application infrastructure.
-
-**[flask-app](https://github.com/cwhitaker777/flask-app)**
-Python/Flask application project.
 
 ### 📫 Let's Connect
 
