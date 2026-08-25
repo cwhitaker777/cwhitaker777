@@ -1,14 +1,10 @@
 ## Hi there 👋
 
-Hello! I'm Caleb Whitaker, an aspiring Cloud & DevOps Engineer with a Bachelor's degree in Computer Science and hands-on experience building and automating cloud infrastructure through self-directed AWS projects.
+I'm Caleb Whitaker, an aspiring Cloud & DevOps Engineer with a Computer Science degree and hands-on experience building and automating cloud infrastructure through self-directed AWS projects.
 
-My toolkit includes AWS, Terraform, Docker, Kubernetes, Jenkins, GitHub Actions, Ansible, Linux, CI/CD pipelines, and Infrastructure as Code. Through independent projects, I've designed cloud environments as code, automated deployments, and deployed containerized applications on ECS and Fargate.
+My toolkit includes AWS, Terraform, Docker, Kubernetes, Jenkins, GitHub Actions, Ansible, Linux, and CI/CD pipelines. I've designed cloud environments as code, automated deployments, and deployed containerized applications on ECS and Fargate — and I bring that same automation mindset to my work in workflow automation (Zapier, GoHighLevel) and IT support.
 
-Professionally, I bring experience in workflow automation (Zapier, GoHighLevel) and IT support, where I've built automated systems that improve efficiency for real client operations.
-
-I enjoy solving infrastructure challenges, improving deployment reliability, and eliminating manual processes through automation. As a former NCAA Division II student-athlete, I bring a strong work ethic, teamwork, and a problem-solving mindset to every project.
-
-I'm looking for an entry-level Cloud or DevOps Engineer role where I can keep growing into the infrastructure work I've been teaching myself to do well.
+As a former NCAA Division II student-athlete and team captain, I bring discipline, teamwork, and a problem-solving mindset to every project. I'm looking for an entry-level Cloud or DevOps Engineer role where I can keep growing into the infrastructure work I've been teaching myself to do well.
 
 ### 🛠️ Skills
 
