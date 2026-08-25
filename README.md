@@ -1,16 +1,42 @@
 ## Hi there 👋
 
-<!--
-**cwhitaker777/cwhitaker777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Caleb Whitaker, an aspiring Cloud & DevOps Engineer with a Bachelor's degree in Computer Science and hands-on experience building and automating cloud infrastructure through self-directed AWS projects.
 
-Here are some ideas to get you started:
+My toolkit includes AWS, Terraform, Docker, Kubernetes, Jenkins, GitHub Actions, Ansible, Linux, CI/CD pipelines, and Infrastructure as Code. Through independent projects, I've designed cloud environments as code, automated deployments, and deployed containerized applications on ECS and Fargate.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Professionally, I bring experience in workflow automation (Zapier, GoHighLevel) and IT support, where I've built automated systems that improve efficiency for real client operations.
+
+I enjoy solving infrastructure challenges, improving deployment reliability, and eliminating manual processes through automation. As a former NCAA Division II student-athlete, I bring a strong work ethic, teamwork, and a problem-solving mindset to every project.
+
+I'm looking for an entry-level Cloud or DevOps Engineer role where I can keep growing into the infrastructure work I've been teaching myself to do well.
+
+### 🛠️ Skills
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=FF9900)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### 🚀 Featured Projects
+
+**[CloudCart](https://github.com/cwhitaker777/CloudCart)**
+Medusa.js e-commerce platform deployed on EKS with a full DevSecOps stack — containerized architecture, IaC, and security tooling baked into the pipeline.
+
+**[IaC-w-Terraform-and-Ansible](https://github.com/cwhitaker777/IaC-w-Terraform-and-Ansible)**
+End-to-end Terraform + Ansible pipeline on AWS, provisioning infrastructure and automating configuration management. Full documented walkthrough included.
+
+**[Application_Deployment](https://github.com/cwhitaker777/Application_Deployment)**
+Terraform-driven deployment workflow for cloud application infrastructure.
+
+**[flask-app](https://github.com/cwhitaker777/flask-app)**
+Python/Flask application project.
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caleb-whitaker-ab9671163/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:whitaker259@gmail.com)
