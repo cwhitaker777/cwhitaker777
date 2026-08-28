@@ -30,3 +30,5 @@ End-to-end Terraform + Ansible pipeline on AWS, provisioning infrastructure and 
 Terraform-driven deployment workflow for cloud application infrastructure.
 
 ### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caleb-whitaker-ab9671163/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:whitaker259@gmail.com)
