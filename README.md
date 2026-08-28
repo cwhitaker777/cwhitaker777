@@ -20,6 +20,9 @@ As a former NCAA Division II student-athlete and team captain, I bring disciplin
 
 ### 🚀 Featured Projects
 
+**[Terraform Troubleshooting Guide](https://cwhitaker777.github.io/terraform-troubleshooting-guide/)**
+Interactive AWS + Terraform reference covering VPC, ECS/EKS, IAM, and multi-AZ patterns — pairs common AWS error messages with the exact CLI commands to diagnose them.
+
 **[IaC-w-Terraform-and-Ansible](https://github.com/cwhitaker777/IaC-w-Terraform-and-Ansible)**
 End-to-end Terraform + Ansible pipeline on AWS, provisioning infrastructure and automating configuration management. Full documented walkthrough included.
 
@@ -28,5 +31,4 @@ Terraform-driven deployment workflow for cloud application infrastructure.
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caleb-whitaker-ab9671163/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:whitaker259@gmail.com)
+[![L
