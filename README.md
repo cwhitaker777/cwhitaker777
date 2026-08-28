@@ -30,5 +30,3 @@ End-to-end Terraform + Ansible pipeline on AWS, provisioning infrastructure and 
 Terraform-driven deployment workflow for cloud application infrastructure.
 
 ### 📫 Let's Connect
-
-[![L
